@@ -1,6 +1,5 @@
 Bookshelf: A Bookstore and Exchange Platform
 
-Description
 Bookshelf is a web application that allows users to buy, sell, and exchange books. It provides a seamless experience for users to browse available books, add them to a cart, and complete purchases. Additionally, users can exchange books with others, creating a vibrant community of book lovers.
  Technologies Used
 - Frontend
